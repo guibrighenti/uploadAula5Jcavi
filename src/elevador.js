@@ -19,7 +19,6 @@ function descer(){
         alert('terreo!')
     }
 }
-
     return (
         <div className="div">
         <input placeholder="digite seu nome:"></input>
